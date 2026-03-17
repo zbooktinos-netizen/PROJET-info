@@ -1,7 +1,7 @@
 # PROJET-info
 # Bonjour, je suis Lawson Modeste
 
-## 🚀 Ingénieur Systèmes, Réseaux, DevOps, Cybersécurité & Support It
+## Ingénieur Systèmes, Réseaux, DevOps, Cybersécurité & Support It
 
 Je suis passionné par la sécurité informatique, l'administration des systèmes Linux et l'automatisation DevOps.
 
